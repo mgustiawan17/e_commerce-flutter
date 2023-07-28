@@ -1,6 +1,7 @@
 # e_commerce
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 A new Flutter project.
 
 ## Getting Started
@@ -16,6 +17,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
+=======
+>>>>>>> 47cd5f9bfa3bdbdd60a3af972b1148ad1ce248e8
 
 
 ## Getting started
@@ -106,4 +109,7 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+<<<<<<< HEAD
+>>>>>>> 47cd5f9bfa3bdbdd60a3af972b1148ad1ce248e8
+=======
 >>>>>>> 47cd5f9bfa3bdbdd60a3af972b1148ad1ce248e8
